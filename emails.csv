@@ -1,0 +1,9 @@
+text,label
+"Urgent! Verify your account now: http://fake-bank.com",phishing
+"Your bank account has been suspended",phishing
+"Click here to reset your password",phishing
+"Suspicious login attempt detected",phishing
+"Meeting tomorrow at 10am in classroom 203",legit
+"Hi, here is the document you asked for",legit
+"Reminder: project deadline is Friday",legit
+"Please find attached the report",legit
