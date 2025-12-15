@@ -17,7 +17,7 @@ It analyzes email text to find suspicious patterns, such as links, keywords, or 
 - scikit-learn  
 - pickle (for saving the trained model)  
 - Regex (for feature extraction)  
-## Project Structure
+  ##Project Structure
 phishing-detector/
 │── data/ # CSV with phishing and legit emails
 │── src/ # Python source code
@@ -40,9 +40,10 @@ python src/model.py
 ##Run the email detector:
 python src/detector.py
 ----
-## Phishing example
+#Phishing example
+
 Urgent! Verify your account now: http://fake-bank.com
 ---
-## Legit example
+##Legit example
 Meeting tomorrow at 10am in classroom 203
 
